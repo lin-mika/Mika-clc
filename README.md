@@ -1,4 +1,4 @@
-## Welcome Mika Lin's Website
+## Welcome to Mika Lin's Website
 
 > 1. [About me](https://lin-mika.github.io/about-me/)      
 
