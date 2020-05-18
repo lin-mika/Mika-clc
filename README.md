@@ -1,7 +1,7 @@
 ## Welcome Mika Lin's website
 
 
-[**About Me**] (https://lin-mika.github.io/about-me/)    
+[**About Me**] (https://lin-mika.github.io/about-me/.md)    
 **[My Family]** (https://lin-mika.github.io/about-me/)    
 **[Travel]** (https://lin-mika.github.io/about-me/)    
 **[My Future]** (https://lin-mika.github.io/about-me/)
