@@ -5,7 +5,7 @@
 
 > [My Future](https://lin-mika.github.io/about-me/)
 
-> [My Family](https://lin-mika.github.io/about-me/)
+> [My Family](https://lin-mika.github.io/My-Family/)
 
 > [Travel](https://lin-mika.github.io/about-me/)
 
